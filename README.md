@@ -3,7 +3,8 @@
 A Python application using Streamlit and ReportLab to convert specially formatted text markup into aesthetically pleasing, two-column, handwritten-style PDF notes.
 
 *(This project was developed using Python, with AI assistance utilized during coding and brainstorming phases, akin to consulting documentation or search engines.)*
-
+This project is available on huggingface as a web app:
+<a>https://huggingface.co/spaces/CursiveCurse/Markup-To-Handwritten-PDF</a>
 ## Motivation
 
 Taking detailed notes by hand on a physical notebook can be very time-consuming, although the results are often visually engaging and easy to read. On the other hand, using AI language models (like ChatGPT) to summarize concepts or generate explanations often produces plain, unformatted text that lacks visual appeal and can be hard to scan quickly.
